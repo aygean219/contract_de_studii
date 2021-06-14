@@ -1,0 +1,9 @@
+OOP,5,Ana Maria,optional
+Sisteme de operare,6,Boian Rares,obligatoriu
+Engleza,2,Teacher,facultativ
+Sisteme dinamice,8,Moga Madalina,optional
+OOP,2,Istvan,obligatoriu
+Sisteme dinamice,9,Bota Monica,obligatoriu
+Sisteme de operare,16,Florian Mircea,obligatoriu
+Structuri de date,12,Istvan,facultativ
+mama,6,tata,abc
